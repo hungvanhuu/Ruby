@@ -2,9 +2,9 @@ require_relative 'ManagerCandidate.rb'
 require_relative 'Candidate.rb'
 class Main
   list_155 = ManagerCadidate.new()
-  ts1 = CandidateA.new("1","Xuan Toan","123 UTE","2")
-  ts2 = CandidateB.new("2","Hoang Pham","123 UTE","3")
-  ts3 = CandidateC.new("3","Pham Xuan","123 UTE","1")
+  ts1 = CandidateA.new("1","Huu Hung","123 UTE","2")
+  ts2 = CandidateB.new("2","Cong Thanh","123 UTE","3")
+  ts3 = CandidateC.new("3","Ngoc Phong","123 UTE","1")
   list_155.add(ts1)
   list_155.add(ts2)
   list_155.add(ts3)
